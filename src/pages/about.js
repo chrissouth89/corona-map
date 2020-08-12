@@ -15,18 +15,6 @@ const SecondPage = () => {
         <title>About</title>
       </Helmet>
       <Container type="content">
-        <h1>About</h1>
-
-        <h2>{ companyName }</h2>
-        <p>{ siteDescription }</p>
-        <p>
-          <a href={companyUrl}>View on Github</a>
-        </p>
-
-        <h2>Created By</h2>
-        <p>
-          <a href={authorUrl}>{ authorName }</a>
-        </p>
       </Container>
     </Layout>
   );
