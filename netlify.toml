@@ -1,4 +1,4 @@
 [[plugins]]
   package = "netlify-plugin-gatsby-cache"
-YARN_VERSION = “1.22.4”
-NODE_VERSION = “12.18.1”
+  YARN_VERSION = “1.22.4”
+  NODE_VERSION = “12.18.1”
